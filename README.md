@@ -1,5 +1,5 @@
 # 点击右边Releases下载👉👉👉
-## 用法
+## 用法（表格格式必须为xlsx！！！！）
 ### 准备数据(表格抬头第一行必须为中文)
 ![63c60c4db0438d3369f4fd76200fad2](https://github.com/user-attachments/assets/0f86dfd3-d2f2-4147-b1f0-12f33aa33400)
 
